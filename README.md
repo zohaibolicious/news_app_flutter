@@ -1,16 +1,20 @@
-# news_app_mad
+# News App Flutter
 
-Semester Project MAD
+Project (News App developed in Flutter using News API)
 
-## Getting Started
+This app is developed using Flutter version 2.5.3 (Stable Release)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+#PreRequisites
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Flutter Version: 2.5.3 (Stable Release)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Open pubspec.yaml file and run Flutter pub get command to fetch all dependencies.
+
+# Instructions
+
+After cloning this project locally.
+
+1. Create an account on NewsApi.org , and copy your API key.
+2. Now open this project and paste your key in Key.dart file.
+3. 
